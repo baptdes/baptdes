@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baptiste Desnouck</h1>
-<h3 align="center">A computer science engineering student passionate about Computer Vision & Image Processing</h3>
+<h3 align="center">A computer science engineering student passionate about AI agents, Computer Vision & Image Processing</h3>
 
 ---
 
